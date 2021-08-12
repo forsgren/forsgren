@@ -13,7 +13,6 @@ Front end focused web developer located in Gothenburg, Sweden. Currently working
 ![](https://img.shields.io/static/v1?logoColor=white&labelColor=555&color=eee&label=%20&message=JavaScript&logo=javascript)
 ![](https://img.shields.io/static/v1?logoColor=white&labelColor=555&color=eee&label=%20&message=PHP&logo=php)
 ![](https://img.shields.io/static/v1?logoColor=white&labelColor=555&color=eee&label=%20&message=HTML&logo=html5)
-![](https://img.shields.io/static/v1?logoColor=white&labelColor=555&color=eee&label=%20&message=Gatsby&logo=gatsby)
 
 ## 🛠 Tools
 
