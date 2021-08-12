@@ -18,11 +18,11 @@ Front end focused web developer located in Gothenburg, Sweden. Currently working
 ## 🛠 Tools
 
 ![](https://img.shields.io/static/v1?logoColor=white&labelColor=555&color=eee&label=%20&message=macOS&logo=apple)
+![](https://img.shields.io/static/v1?logoColor=white&labelColor=555&color=eee&label=%20&message=1Password&logo=1password)
 ![](https://img.shields.io/static/v1?logoColor=white&labelColor=555&color=eee&label=%20&message=GitHub&logo=github)
 ![](https://img.shields.io/static/v1?logoColor=white&labelColor=555&color=eee&label=%20&message=BitBucket&logo=bitbucket)
 ![](https://img.shields.io/static/v1?logoColor=white&labelColor=555&color=eee&label=%20&message=Figma&logo=figma)
 ![](https://img.shields.io/static/v1?logoColor=white&labelColor=555&color=eee&label=%20&message=Photoshop&logo=adobephotoshop)
 ![](https://img.shields.io/static/v1?logoColor=white&labelColor=555&color=eee&label=%20&message=Slack&logo=slack)
 ![](https://img.shields.io/static/v1?logoColor=white&labelColor=555&color=eee&label=%20&message=Asana&logo=asana)
-![](https://img.shields.io/static/v1?logoColor=white&labelColor=555&color=eee&label=%20&message=1Password&logo=1password)
 ![](https://img.shields.io/static/v1?logoColor=white&labelColor=555&color=eee&label=%20&message=Notion&logo=notion)
