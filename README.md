@@ -1,4 +1,4 @@
-### O hai there! 👋
+O hai there! 👋
 
 Front end focused web developer located in Gothenburg, Sweden. Currently working at [Grebban](https://www.grebban.com/).
 
@@ -7,6 +7,7 @@ Front end focused web developer located in Gothenburg, Sweden. Currently working
 ## 👨‍💻 Currently working with
 
 ![](https://img.shields.io/static/v1?logoColor=white&labelColor=555&color=eee&label=%20&message=React&logo=react)
+![](https://img.shields.io/static/v1?logoColor=white&labelColor=555&color=eee&label=%20&message=WordPress&logo=wordpress)
 ![](https://img.shields.io/static/v1?logoColor=white&labelColor=555&color=eee&label=%20&message=SASS&logo=sass)
 ![](https://img.shields.io/static/v1?logoColor=white&labelColor=555&color=eee&label=%20&message=WordPress&logo=wordpress)
 ![](https://img.shields.io/static/v1?logoColor=white&labelColor=555&color=eee&label=%20&message=JavaScript&logo=javascript)
