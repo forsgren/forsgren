@@ -14,7 +14,7 @@ Front end focused web developer located in Gothenburg, Sweden. Currently working
 ![](https://img.shields.io/static/v1?logoColor=white&labelColor=555&color=eee&label=%20&message=PHP&logo=php)
 ![](https://img.shields.io/static/v1?logoColor=white&labelColor=555&color=eee&label=%20&message=HTML&logo=html5)
 
-## 🛠 Tools i enjoy
+## 🛠 Tools I enjoy
 
 ![](https://img.shields.io/static/v1?logoColor=white&labelColor=555&color=eee&label=%20&message=macOS&logo=apple)
 ![](https://img.shields.io/static/v1?logoColor=white&labelColor=555&color=eee&label=%20&message=Alfred&logo=alfred)
