@@ -1,3 +1,7 @@
+
+
+<img src="https://gist.githubusercontent.com/forsgren/20592649246385afd12bec747c0d904c/raw/63fd88a2f79d08f71ecf74cdb468fe35b407209c/kflogo.svg" style="max-width: 100%; margin-bottom: 30px" />
+
 O hai there! 👋
 
 Front end focused web developer located in Gothenburg, Sweden. Currently working at [Grebban](https://www.grebban.com/).
