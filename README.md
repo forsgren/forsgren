@@ -1,6 +1,8 @@
 
 
-<img src="https://gist.githubusercontent.com/forsgren/20592649246385afd12bec747c0d904c/raw/63fd88a2f79d08f71ecf74cdb468fe35b407209c/kflogo.svg" style="max-width: 100%; margin-bottom: 30px" />
+<div style="background-color: #fafafa; border-radius: 10px; padding: min(4%, 20px); padding-bottom: min(2%, 15px); transform: skew(-5deg); box-shadow: 0 10px 20px rgba(0,0,0,0.05),  0 2px 10px rgba(0,0,0,0.05); margin: 0 -10px min(5%, 30px); border: 1px solid rgba(0,0,0,0.1);">
+<img src="https://gist.githubusercontent.com/forsgren/20592649246385afd12bec747c0d904c/raw/f531b59dee06757b250d2534b343c1de423d049b/kflogo.svg" style="width: 100%; max-width: 512px; transform: skew(5deg)" />
+</div>
 
 O hai there! 👋
 
