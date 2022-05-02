@@ -1,6 +1,6 @@
 
 
-<img src="https://gist.githubusercontent.com/forsgren/61bb759be00c2724823f1b66ce4c0e3b/raw/5f80b6db9da0db4a91ab667b51d6b1bbe0316648/kflogo_dynamic.svg" style="max-width: 100%; margin-bottom: 30px" />
+<img src="https://gist.githubusercontent.com/forsgren/adc1c64a9c298e06ab5491e20cbb87ff/raw/0b586b8fd19530b3b805dd2bd36dd0b96cfef306/kf_logo_responsive.svg" style="max-width: 100%; margin-bottom: 30px" />
 
 O hai there! 👋
 
