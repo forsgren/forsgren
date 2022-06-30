@@ -44,3 +44,11 @@ Front end focused web developer located in Gothenburg, Sweden. Currently working
 ![https://store.steampowered.com/app/736260/Baba_Is_You/](https://img.shields.io/static/v1?logoColor=white&labelColor=EC6A4A&color=363F51&label=★★★★★&message=Baba%20is%20you)  
 ![https://store.steampowered.com/app/379720/DOOM/](https://img.shields.io/static/v1?logoColor=white&labelColor=c23f11&color=716b0d&label=★★★★★&message=Doom%20(2016))  
 ![https://store.steampowered.com/app/264710/Subnautica/](https://img.shields.io/static/v1?logoColor=white&labelColor=C8FEFC&color=21B288&label=★★★★★&message=Subnautica)
+
+## 🧑‍💻
+
+<div style="transform-origin: top left; transform: scale(.8); opacity: 0.8;">
+
+![](https://visitor-badge.glitch.me/badge?page_id=forsgren.forsgren)
+
+</div>
