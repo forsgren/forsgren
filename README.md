@@ -1,20 +1,24 @@
 <img src="https://gist.githubusercontent.com/forsgren/adc1c64a9c298e06ab5491e20cbb87ff/raw/0b586b8fd19530b3b805dd2bd36dd0b96cfef306/kf_logo_responsive.svg" style="max-width: 100%; margin-bottom: 30px" />
 
-O hai there! 👋
+Hi there! 👋
 
-Front end focused web developer located in Gothenburg, Sweden. Currently working at [Grebban](https://www.grebban.com/).
+Frontend focused web developer located in Gothenburg, Sweden. Currently working at [Grebban](https://www.grebban.com/).
 
-Find me on [LinkedIn](https://www.linkedin.com/in/forsgren/)
+I've been working with web development professionally since 2008, during that time I have been involved in both design and backend development as well.
+
+Find me on [LinkedIn](https://www.linkedin.com/in/forsgren/).
 
 ## 👨‍💻 Currently working with
 
 ![React](https://img.shields.io/static/v1?logoColor=000&labelColor=61DAFB&color=333&label=%20&message=React&logo=react)
+![TypeScript](https://img.shields.io/static/v1?logoColor=fff&labelColor=3178c6&color=333&label=%20&message=TypeScript&logo=typescript)
+![JavaScript](https://img.shields.io/static/v1?logoColor=000&labelColor=F7DF1E&color=333&label=%20&message=JavaScript&logo=javascript)
+![HTML](https://img.shields.io/static/v1?logoColor=fff&labelColor=e34f26&color=333&label=%20&message=HTML&logo=html5)
+![PHP](https://img.shields.io/static/v1?logoColor=fff&labelColor=777bb4&color=333&label=%20&message=PHP&logo=php)
+![Swift](https://img.shields.io/static/v1?logoColor=fff&labelColor=F05138&color=333&label=%20&message=Swift&logo=swift)
+![SwiftUI](https://img.shields.io/static/v1?logoColor=fff&labelColor=F05138&color=333&label=%20&message=SwiftUI&logo=swift)
 ![WordPress](https://img.shields.io/static/v1?logoColor=fff&labelColor=21759B&color=333&label=%20&message=WordPress&logo=wordpress)
 ![SASS](https://img.shields.io/static/v1?logoColor=fff&labelColor=CC6699&color=333&label=%20&message=SASS&logo=sass)
-![JavaScript](https://img.shields.io/static/v1?logoColor=000&labelColor=F7DF1E&color=333&label=%20&message=JavaScript&logo=javascript)
-![TypeScript](https://img.shields.io/static/v1?logoColor=fff&labelColor=3178c6&color=333&label=%20&message=TypeScript&logo=typescript)
-![PHP](https://img.shields.io/static/v1?logoColor=fff&labelColor=777bb4&color=333&label=%20&message=PHP&logo=php)
-![HTML](https://img.shields.io/static/v1?logoColor=fff&labelColor=e34f26&color=333&label=%20&message=HTML&logo=html5)
 
 ## 🛠 Tools I enjoy
 
@@ -22,13 +26,14 @@ Find me on [LinkedIn](https://www.linkedin.com/in/forsgren/)
 ![Alfred](https://img.shields.io/static/v1?logoColor=white&labelColor=5C1F87&color=333&label=%20&message=Alfred&logo=alfred)
 ![1Password](https://img.shields.io/static/v1?logoColor=white&labelColor=0094F5&color=333&label=%20&message=1Password&logo=1password)
 ![GitHub](https://img.shields.io/static/v1?logoColor=white&labelColor=181717&color=333&label=%20&message=GitHub&logo=github)
+![Claude](https://img.shields.io/static/v1?logoColor=white&labelColor=D97757&color=333&label=%20&message=Claude+Code&logo=claude-code)
+![Codex](https://img.shields.io/static/v1?logoColor=white&labelColor=10A37F&color=333&label=%20&message=Codex&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsLXJ1bGU9ImV2ZW5vZGQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik04LjA4Ni40NTdhNi4xMDUgNi4xMDUgMCAwMTMuMDQ2LS40MTVjMS4zMzMuMTUzIDIuNTIxLjcyIDMuNTY0IDEuN2EuMTE3LjExNyAwIDAwLjEwNy4wMjljMS40MDgtLjM0NiAyLjc2Mi0uMjI0IDQuMDYxLjM2NmwuMDYzLjAzLjE1NC4wNzZjMS4zNTcuNzAzIDIuMzMgMS43NyAyLjkxOCAzLjE5OC4yNzguNjc5LjQxOCAxLjM4OC40MjEgMi4xMjZhNS42NTUgNS42NTUgMCAwMS0uMTggMS42MzEuMTY3LjE2NyAwIDAwLjA0LjE1NSA1Ljk4MiA1Ljk4MiAwIDAxMS41NzggMi44OTFjLjM4NSAxLjkwMS0uMDEgMy42MTUtMS4xODMgNS4xNGwtLjE4Mi4yMmE2LjA2MyA2LjA2MyAwIDAxLTIuOTM0IDEuODUxLjE2Mi4xNjIgMCAwMC0uMTA4LjEwMmMtLjI1NS43MzYtLjUxMSAxLjM2NC0uOTg3IDEuOTkyLTEuMTk5IDEuNTgyLTIuOTYyIDIuNDYyLTQuOTQ4IDIuNDUxLTEuNTgzLS4wMDgtMi45ODYtLjU4Ny00LjIxLTEuNzM2YS4xNDUuMTQ1IDAgMDAtLjE0LS4wMzJjLS41MTguMTY3LTEuMDQuMTkxLTEuNjA0LjE4NWE1LjkyNCA1LjkyNCAwIDAxLTIuNTk1LS42MjIgNi4wNTggNi4wNTggMCAwMS0yLjE0Ni0xLjc4MWMtLjIwMy0uMjY5LS40MDQtLjUyMi0uNTUxLS44MjFhNy43NCA3Ljc0IDAgMDEtLjQ5NS0xLjI4MyA2LjExIDYuMTEgMCAwMS0uMDE3LTMuMDY0LjE2Ni4xNjYgMCAwMC4wMDgtLjA3NC4xMTUuMTE1IDAgMDAtLjAzNy0uMDY0IDUuOTU4IDUuOTU4IDAgMDEtMS4zOC0yLjIwMiA1LjE5NiA1LjE5NiAwIDAxLS4zMzMtMS41ODkgNi45MTUgNi45MTUgMCAwMS4xODgtMi4xMzJjLjQ1LTEuNDg0IDEuMzA5LTIuNjQ4IDIuNTc3LTMuNDkzLjI4Mi0uMTg4LjU1LS4zMzQuODAyLS40MzguMjg2LS4xMi41NzMtLjIyLjg2MS0uMzA0YS4xMjkuMTI5IDAgMDAuMDg3LS4wODdBNi4wMTYgNi4wMTYgMCAwMTUuNjM1IDIuMzFDNi4zMTUgMS40NjQgNy4xMzIuODQ2IDguMDg2LjQ1N3ptLS44MDQgNy44NWEuODQ4Ljg0OCAwIDAwLTEuNDczLjg0MmwxLjY5NCAyLjk2NS0xLjY4OCAyLjg0OGEuODQ5Ljg0OSAwIDAwMS40Ni44NjRsMS45NC0zLjI3MmEuODQ5Ljg0OSAwIDAwLjAwNy0uODU0bC0xLjk0LTMuMzkzem01LjQ0NiA2LjI0YS44NDkuODQ5IDAgMDAwIDEuNjk1aDQuODQ4YS44NDkuODQ5IDAgMDAwLTEuNjk2aC00Ljg0OHoiLz48L3N2Zz4=)
 ![Figma](https://img.shields.io/static/v1?logoColor=white&labelColor=F24E1E&color=333&label=%20&message=Figma&logo=figma)
-![Affinitydesigner](https://img.shields.io/static/v1?logoColor=white&labelColor=6be1fb&color=333&label=%20&message=Affinity+Designer&logo=affinitydesigner)
+![Affinitydesigner](https://img.shields.io/static/v1?logoColor=white&labelColor=6be1fb&color=333&label=%20&message=Affinity+Designer&logo=data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjgwMCIgdmlld0JveD0iMCAwIDI0IDI0IiB3aWR0aD0iODAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Im0xMC40NCAwLTEwLjQ0IDE4LjA4M3Y1LjE5N2EuNzIuNzIgMCAwIDAgLjcxMy43MmgxMC4wMjNsLTUuMDM2LTguNzIzIDguODItMTUuMjc3em01LjE2IDAtNC44NiA4LjQxOCAzLjcxOCA2LjQzOWg5LjU0MnYtMTQuMTM5YS43Mi43MiAwIDAgMCAtLjcyLS43MTh6bS01LjQgOS4zNTMtMi4wNjQgMy41NzVhMS4yODkgMS4yODkgMCAwIDAgMCAxLjI4OGMuMjMuNC42NTYuNjQgMS4xMTcuNjRoNC4xMjV6bS0zLjEyMiA2LjQ0IDQuNzM4IDguMjA3aDExLjQ3MWEuNzIuNzIgMCAwIDAgLjcxMy0uNzE4di03LjQ5eiIvPjwvc3ZnPg==)
 ![Slack](https://img.shields.io/static/v1?logoColor=white&labelColor=4A154B&color=333&label=%20&message=Slack&logo=slack)
 ![Asana](https://img.shields.io/static/v1?logoColor=white&labelColor=f06a6a&color=333&label=%20&message=Asana&logo=asana)
 ![Notion](https://img.shields.io/static/v1?logoColor=white&labelColor=000&color=333&label=%20&message=Notion&logo=notion)
 ![Arq](https://img.shields.io/static/v1?logoColor=white&labelColor=47b4f8&color=333&label=%20&message=Arq&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+QXJxPC90aXRsZT48cGF0aCBkPSJtMTIgMjRjLTIuOTg0IDAtMTItNS4zODYtMTItMTJ2LTEwLjA4YzAtLjUwOS4yMDItLjk5OC41NjItMS4zNThzLjg0OS0uNTYyIDEuMzU4LS41NjJoMjAuMTZjLjUwOSAwIC45OTguMjAyIDEuMzU4LjU2MnMuNTYyLjg0OS41NjIgMS4zNTh2MTAuMDhjMCA2LjYxNC05LjAxNiAxMi0xMiAxMnptNi42NDItNC43NTgtLjg3MS0uNjA5Yy0uMTQyLS4xLS4zMjQtLjEyNC0uNDg4LS4wNjRsLTguNDY0IDMuMDhjLjM1NC4xOTIuNjk4LjM2MSAxLjAyNy41MDZsNy4wNTUtMi41NjdjLjMyNy0uMTIuNjkxLS4wNzIuOTc2LjEyOGwuMTA0LjA3M2MuMTEzLS4wOS4yMjYtLjE4Mi4zMzktLjI3NS4xMDgtLjA4OS4yMTUtLjE4LjMyMi0uMjcyem0yLjA3LTIuMTMxLTIuNTA5LTEuNzU3Yy0uMTQyLS4xLS4zMjUtLjEyNC0uNDg4LS4wNjRsLTExLjkwMyA0LjMzMmMuMjQ2LjIwMS40OTYuMzk0Ljc0Ny41OGwxMC43NzctMy45MjNjLjMyNy0uMTE5LjY5Mi0uMDcxLjk3Ny4xMjlsMS44ODEgMS4zMTdjLjE3OS0uMjAxLjM1Mi0uNDA2LjUxOC0uNjE0em0xLjUwOS0yLjUyNC0zLjU4Ni0yLjUxMmMtLjE0My0uMDk5LS4zMjUtLjEyMy0uNDg5LS4wNjRsLTE0LjY2NCA1LjMzOGMuMTgzLjIxOS4zNzMuNDM0LjU3LjY0NGwxMy43MTYtNC45OTNjLjMyNy0uMTE5LjY5MS0uMDcxLjk3Ni4xMjlsMy4xMzcgMi4xOTZjLjEyNS0uMjQyLjIzOS0uNDg4LjM0LS43Mzh6bS41MTYtMi4yNDNjLjAwNi0uMTE1LjAxLS4yMjkuMDEtLjM0NHYtMTAuMDhjMC0uMTc3LS4wNzEtLjM0Ni0uMTk2LS40NzFzLS4yOTQtLjE5Ni0uNDcxLS4xOTZoLTIwLjE2Yy0uMTc3IDAtLjM0Ni4wNzEtLjQ3MS4xOTZzLS4xOTYuMjk0LS4xOTYuNDcxdjguMTUybDguMjg2LTMuMDE2LTIuODExIDIuODExLTUuNDc1IDEuOTkzdi4xNGMwIC4yNDQuMDE1LjQ4NS4wNDIuNzI0bDUuMTg1LTEuODg3djIuMjdsLTQuNjE3IDEuNjgxYy4xMS4yNTIuMjMzLjUwMS4zNjcuNzQ2bDE1Ljk2OS01LjgxMmMuMzI3LS4xMTkuNjkyLS4wNzEuOTc3LjEyOHptLTE1LjI5Ny0xLjg2OXYyLjI4M2w2LjcyLTIuNDQ2di0xLjM4N2wtMy4wNDEtMi4xMjl6IiBmaWxsPSIjZmZmIi8+PC9zdmc+)
-![Adobe photoshop](https://img.shields.io/static/v1?logoColor=white&labelColor=31A8FF&color=333&label=%20&message=Photoshop&logo=adobephotoshop)
 
 ## 🗣 Languages
 
