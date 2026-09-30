@@ -8,6 +8,18 @@ I've been working with web development professionally since 2008, during that ti
 
 Find me on [LinkedIn](https://www.linkedin.com/in/forsgren/).
 
+## 💡 A few of my projects
+
+### → [Project Logo](https://github.com/forsgren/project-logo/)
+
+An extension for VS Code/Cursor (or other VS Code forks) that enables projects to display a custom logo in the explorer sidebar to allow users to easily differante between multiple open editors.
+
+Install from: [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=forsgren.project-logo), [Open VSX Registry](https://open-vsx.org/extension/forsgren/project-logo)
+
+### → [NVM Autoswitch](https://github.com/forsgren/nvm-autoswitch)
+
+Automatically switches Node version based on `.nvmrc`. There are multiple ways of solving it, this is what I've developed and are using. This also offers to install a missing Node version if that situation occurs.
+
 ## 👨‍💻 Currently working with
 
 ![React](https://img.shields.io/static/v1?logoColor=000&labelColor=61DAFB&color=333&label=%20&message=React&logo=react)
@@ -42,8 +54,9 @@ Find me on [LinkedIn](https://www.linkedin.com/in/forsgren/).
 
 ## 👾 Games I dig
 
+![https://store.steampowered.com/app/892970/Valheim/](https://img.shields.io/static/v1?logoColor=white&labelColor=292C2F&color=A57B46&label=★★★★★&message=Valheim)  
+![https://store.steampowered.com/app/264710/Subnautica/](https://img.shields.io/static/v1?logoColor=white&labelColor=C8FEFC&color=21B288&label=★★★★★&message=Subnautica)  
+![https://store.steampowered.com/app/736260/Baba_Is_You/](https://img.shields.io/static/v1?logoColor=white&labelColor=EC6A4A&color=363F51&label=★★★★★&message=Baba%20is%20you)  
 ![https://store.steampowered.com/app/1703340/The_Stanley_Parable_Ultra_Deluxe/](https://img.shields.io/static/v1?logoColor=white&labelColor=F5ED8B&color=E0DCB5&label=★★★★★&message=The%20Stanley%20Parable)  
 ![https://store.steampowered.com/app/362890/Black_Mesa/](https://img.shields.io/static/v1?logoColor=white&labelColor=DBE205&color=FC8909&label=★★★★★&message=Black%20Mesa)  
-![https://store.steampowered.com/app/736260/Baba_Is_You/](https://img.shields.io/static/v1?logoColor=white&labelColor=EC6A4A&color=363F51&label=★★★★★&message=Baba%20is%20you)  
-![https://store.steampowered.com/app/379720/DOOM/](<https://img.shields.io/static/v1?logoColor=white&labelColor=c23f11&color=716b0d&label=★★★★★&message=Doom%20(2016)>)  
-![https://store.steampowered.com/app/264710/Subnautica/](https://img.shields.io/static/v1?logoColor=white&labelColor=C8FEFC&color=21B288&label=★★★★★&message=Subnautica)
+![https://store.steampowered.com/app/379720/DOOM/](<https://img.shields.io/static/v1?logoColor=white&labelColor=c23f11&color=716b0d&label=★★★★★&message=Doom%20(2016)>)
